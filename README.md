@@ -1,3 +1,3 @@
-# FastAPI-Projects
- 
-## This project is a REST API built with FastAPI, a modern web framework for building APIs with Python 3.7+ based on standard Python type hints. FastAPI is known for its high performance, ease of use, and automatic validation of data through Pydantic models.
+# FastAPI Machine Learning Projects 🧠🚀
+
+## This repository contains multiple FastAPI-based machine learning projects where models are trained, evaluated, and deployed through a FastAPI web application. This makes it easy to interact with your models through REST APIs. Explore and test the models efficiently!
